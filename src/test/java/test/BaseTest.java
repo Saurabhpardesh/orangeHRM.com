@@ -22,7 +22,7 @@ public class BaseTest {
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(12));
 	}
-	//my program
+//my project
 	@AfterSuite
 	public void teardown() {
 		
