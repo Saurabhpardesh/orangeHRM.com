@@ -2,38 +2,38 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-27T18:04:31 IST" name="Suite" finished-at="2024-08-27T18:04:38 IST" duration-ms="7482">
+  <suite started-at="2024-11-09T16:10:00 IST" name="Suite" finished-at="2024-11-09T16:10:07 IST" duration-ms="6927">
     <groups>
     </groups>
-    <test started-at="2024-08-27T18:04:31 IST" name="Test" finished-at="2024-08-27T18:04:38 IST" duration-ms="7482">
+    <test started-at="2024-11-09T16:10:00 IST" name="Test" finished-at="2024-11-09T16:10:07 IST" duration-ms="6927">
       <class name="test.LoginTest">
-        <test-method is-config="true" signature="initialization()[pri:0, instance:test.LoginTest@6a78afa0]" started-at="2024-08-27T18:04:31 IST" name="initialization" finished-at="2024-08-27T18:04:31 IST" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:test.LoginTest@1f2586d6]" started-at="2024-11-09T16:10:00 IST" name="initialization" finished-at="2024-11-09T16:10:00 IST" duration-ms="21" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialization -->
-        <test-method signature="verifypagetitle()[pri:1, instance:test.LoginTest@6a78afa0]" started-at="2024-08-27T18:04:31 IST" name="verifypagetitle" finished-at="2024-08-27T18:04:31 IST" duration-ms="33" status="PASS">
+        <test-method signature="verifypagetitle()[pri:1, instance:test.LoginTest@1f2586d6]" started-at="2024-11-09T16:10:00 IST" name="verifypagetitle" finished-at="2024-11-09T16:10:00 IST" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifypagetitle -->
-        <test-method signature="login()[pri:2, instance:test.LoginTest@6a78afa0]" started-at="2024-08-27T18:04:31 IST" name="login" finished-at="2024-08-27T18:04:32 IST" duration-ms="1277" status="PASS">
+        <test-method signature="login()[pri:2, instance:test.LoginTest@1f2586d6]" started-at="2024-11-09T16:10:00 IST" name="login" finished-at="2024-11-09T16:10:02 IST" duration-ms="2101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:test.LoginTest@6a78afa0]" started-at="2024-08-27T18:04:38 IST" name="teardown" finished-at="2024-08-27T18:04:38 IST" duration-ms="82" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.LoginTest@1f2586d6]" started-at="2024-11-09T16:10:07 IST" name="teardown" finished-at="2024-11-09T16:10:07 IST" duration-ms="340" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- test.LoginTest -->
       <class name="test.HomeTest">
-        <test-method is-config="true" signature="initialization()[pri:0, instance:test.HomeTest@682b2fa]" started-at="2024-08-27T18:04:17 IST" name="initialization" finished-at="2024-08-27T18:04:31 IST" duration-ms="13637" status="PASS">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:test.HomeTest@7dcf94f8]" started-at="2024-11-09T16:09:50 IST" name="initialization" finished-at="2024-11-09T16:10:00 IST" duration-ms="9683" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialization -->
-        <test-method is-config="true" signature="init()[pri:0, instance:test.HomeTest@682b2fa]" started-at="2024-08-27T18:04:32 IST" name="init" finished-at="2024-08-27T18:04:32 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:test.HomeTest@7dcf94f8]" started-at="2024-11-09T16:10:02 IST" name="init" finished-at="2024-11-09T16:10:02 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="logout()[pri:0, instance:test.HomeTest@682b2fa]" started-at="2024-08-27T18:04:32 IST" name="logout" finished-at="2024-08-27T18:04:38 IST" duration-ms="6089" status="PASS">
+        <test-method signature="logout()[pri:0, instance:test.HomeTest@7dcf94f8]" started-at="2024-11-09T16:10:02 IST" name="logout" finished-at="2024-11-09T16:10:07 IST" duration-ms="4710" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->

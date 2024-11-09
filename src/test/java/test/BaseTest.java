@@ -18,11 +18,11 @@ public class BaseTest {
 		
 		driver.manage().window().maximize();
 		
-		driver.get("https://opensource-demo.orangehrmlive.com/auth/login");
+		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(12));
 	}
-//my project
+    //my project
 	@AfterSuite
 	public void teardown() {
 		
